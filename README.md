@@ -1,21 +1,20 @@
- <!-- Replace the existing README.md with this content -->
+
+<div align="center">
+  <img src="./HASINI-ironman.gif" alt="Hasini — Iron Man banner" width="100%" />
+</div>
 
 <div align="center">
 
-<img src="./HASINI-ironman.gif" alt="HASINI — Iron Man animated banner" width="100%" />
+### Computer Science Engineering Student
 
-<br/>
-
-<a href="https://github.com/hasinimekala-22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Aspiring+Software+Engineer;Learning+by+Building;Code.+Learn.+Build.+Repeat." alt="Developer introduction" />
-</a>
+**Aspiring Software Engineer · Problem Solver · Lifelong Learner**
 
 <p>
   <a href="https://github.com/hasinimekala-22?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-Explore-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+    <img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
   </a>
   <a href="https://github.com/hasinimekala-22?tab=stars">
-    <img src="https://img.shields.io/badge/OPEN%20SOURCE-Learn%20%26%20Grow-B45309?style=for-the-badge&logo=github&logoColor=white" alt="Open source" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Work-B91C1C?style=flat-square&logo=github&logoColor=white" alt="Explore my work" />
   </a>
 </p>
 
@@ -23,154 +22,153 @@
 
 ---
 
-## `01` — About Me
+## About
 
-<img align="right" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinimekala-22&layout=compact&theme=transparent&hide_border=true&title_color=F59E0B&text_color=E5E7EB&bg_color=0D1117" alt="Most used programming languages" />
+I'm Hasini, a B.Tech Computer Science and Engineering student interested in software development, databases, problem-solving, and practical applications of technology.
 
-I'm **Hasini**, a Computer Science and Engineering student who enjoys exploring technology by building practical projects.
+I believe in learning by building. My focus is on strengthening programming fundamentals, developing useful projects, and gradually expanding my skills across software engineering and data analytics.
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering
-- 💻 Learning programming, databases, and software development
-- 🐍 Practicing Python and Java through hands-on coding
-- 📊 Exploring data analytics with SQL and Power BI
-- 🛠️ Building projects that connect classroom concepts to real-world problems
-- 🎯 Focused on consistency, problem-solving, and continuous improvement
-
-<br clear="right"/>
+- 🎓 **Education:** B.Tech in Computer Science and Engineering
+- 💻 **Programming:** Python and Java
+- 🗄️ **Databases:** SQL, MySQL and Oracle
+- 🌐 **Development:** Exploring modern web technologies
+- 📊 **Analytics:** Learning Power BI and Tableau
+- 🎯 **Current focus:** Problem-solving, projects and consistent technical growth
 
 ---
 
-## `02` — Technology Stack
+## Technical Skills
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Python, Java, JavaScript and TypeScript" />
+
+<br/>
 
 **Web Development**
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML, CSS, React and Vite" />
 
-**Databases & Developer Tools**
+<br/>
+
+**Databases & Development Tools**
 
 <img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,vscode&theme=dark" alt="MySQL, Oracle, Git, GitHub and VS Code" />
 
-</div>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Analytics-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Analytics-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Design-AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
-</p>
+<img src="https://img.shields.io/badge/Power%20BI-Exploring-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-Exploring-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/AutoCAD-Learning-E51050?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
+
+</div>
 
 ---
 
-## `03` — Featured Projects
+## Featured Projects
 
 ### 01. Water Leakage & Loss Analyzer
 
 **Python · Oracle Database · SQL**
 
-A course-end project focused on analyzing water leakage complaints and repair records to identify areas associated with significant water loss.
+A course-end project that analyzes water leakage complaints and repair records to identify areas associated with significant water loss.
 
-- Organizing complaint and repair information
-- Using database operations to manage records
-- Exploring patterns that can support water-loss analysis
+- Manage complaint and repair records through database operations.
+- Analyze available records to identify potential patterns in leakage and repairs.
+- Apply Python programming and SQL concepts to a practical problem.
 
-[**View repository →**](https://github.com/hasinimekala-22/Water-Leakage-Analyzer)
+**Repository:** [Water Leakage & Loss Analyzer](https://github.com/hasinimekala-22/Water-Leakage-Analyzer)
 
 ### 02. Winter ARC
 
 **React · TypeScript · Vite**
 
-A personal productivity and study-tracking application designed to bring academics, habits, projects, and daily goals into one place.
+A personal productivity application designed to organize academic goals, habits, study sessions, and project progress in one place.
 
-- Academic and exam tracking
-- Daily habit and routine monitoring
-- Skills and project progress
-- A personalized productivity dashboard
+- Track daily habits and routines.
+- Organize academic goals and exam preparation.
+- Monitor progress across learning and personal projects.
 
-[**Explore my repositories →**](https://github.com/hasinimekala-22?tab=repositories)
+**Repository:** [Explore my GitHub repositories](https://github.com/hasinimekala-22?tab=repositories)
 
 ### 03. DeepRescue
 
-**Robotics · Soft Robotics · CAD Design**
+**Soft Robotics · Pneumatic Gripper · CAD Design**
 
-A disaster-response robotics concept exploring a soft pneumatic gripper designed to help a robot grasp objects during flood and rescue operations.
+A disaster-response robotics project exploring a soft robotic gripper for grasping objects during flood and rescue operations.
 
-- Five-finger soft-gripper concept
-- Pneumatic actuation and chamber design
-- Prototyping and material exploration
-
-*Project/team work; implementation details and results should be added as they are validated.*
+- Five-finger pneumatic gripper concept.
+- Exploration of chamber design and soft materials.
+- Focus on practical robotic manipulation for rescue scenarios.
 
 ### 04. CodeGuardian AI
 
 **React · TypeScript · FastAPI · AI**
 
-An AI-assisted developer-tool concept focused on helping users understand code and improve their coding workflow.
+An AI-assisted developer-tool concept focused on making coding workflows more accessible and helping users understand code.
 
-*Planned features and technologies may evolve as development progresses.*
-
----
-
-## `04` — GitHub Activity
+- Exploring a modern frontend and backend architecture.
+- Investigating AI-assisted developer features.
+- Developing the concept into a practical software project.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasinimekala-22&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=EF4444&text_color=E5E7EB&bg_color=0D1117" alt="GitHub statistics" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=hasinimekala-22&theme=dark&hide_border=true&background=0D1117&ring=EF4444&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub contribution streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasinimekala-22&bg_color=0D1117&color=E5E7EB&line=EF4444&point=F59E0B&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<a href="https://github.com/hasinimekala-22?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-B91C1C?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+</a>
 
 </div>
 
 ---
 
-## `05` — Currently Working On
+## GitHub Statistics
 
-- [ ] Strengthening Python and Java fundamentals
-- [ ] Practicing data structures and problem-solving
-- [ ] Improving SQL and database concepts
-- [ ] Developing practical projects
-- [ ] Learning modern web development workflows
-- [ ] Exploring analytics and engineering design tools
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasinimekala-22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=E5E7EB&icon_color=EF4444&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinimekala-22&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=E5E7EB" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=hasinimekala-22&theme=dark&hide_border=true&background=0D1117&ring=EF4444&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub contribution streak" />
+</div>
 
 ---
 
-## `06` — My Development Philosophy
+## Current Learning Goals
 
 <div align="center">
 
-### `BUILD > LEARN > IMPROVE > REPEAT`
+| Area | Focus |
+|:---|:---|
+| Programming | Python, Java and problem-solving |
+| Computer Science | Data structures, algorithms and core concepts |
+| Databases | SQL, relational design and database programming |
+| Development | Building and improving practical projects |
+| Analytics | Power BI, Tableau and data visualization |
+| Engineering Design | Exploring AutoCAD and design workflows |
 
-*Every project is an opportunity to learn something new.*
+</div>
+
+---
+
+## My Approach
+
+<div align="center">
+
+**Learn with purpose. Build with consistency. Improve with every iteration.**
+
+I aim to turn what I learn into practical work, strengthen my fundamentals, and grow into a capable software engineer.
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-Always%20Learning-991B1B?style=for-the-badge" alt="Always learning" />
-<img src="https://img.shields.io/badge/MINDSET-Consistency-78350F?style=for-the-badge" alt="Consistency" />
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile.**
-
-Explore my repositories, follow my progress, and let's build something meaningful.
-
 <a href="https://github.com/hasinimekala-22">
-  <img src="https://img.shields.io/badge/GitHub-hasinimekala--22-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/Connect%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" />
 </a>
 
-<sub>Designed with a Stark-inspired aesthetic · Built with curiosity and code.</sub>
+<br/><br/>
+
+<sub>Designed with a Stark-inspired aesthetic · Maintained by Hasini</sub>
 
 </div>
