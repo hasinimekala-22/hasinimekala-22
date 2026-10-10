@@ -1,25 +1,17 @@
- ```html
-<div align="center">
+ <div align="center">
 
-<a href="https://github.com/hasinimekala-22">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090B,45:7F1D1D,100:F59E0B&text=HASINI&fontColor=FFFFFF&fontSize=75&fontAlignY=48&desc=CODE%20%7C%20BUILD%20%7C%20LEARN%20%7C%20GROW&descAlignY=68&descSize=16"
-    width="100%"
-    alt="Hasini — Code, Build, Learn, Grow"
-  />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090B,40:450A0A,75:B91C1C,100:F59E0B&text=HASINI&fontColor=FFFFFF&fontSize=78&fontAlignY=42&desc=CODE%20%7C%20BUILD%20%7C%20LEARN%20%7C%20GROW&descAlignY=62&descSize=16" width="100%" alt="Hasini — Code, Build, Learn, Grow" />
 
-</div>
-```
-# `> Hello, World! I'm Hasini`
+<img src="https://media1.tenor.com/m/z74B5C809U0AAAAd/iron-man.gif" width="180" alt="Iron Man animation" />
 
-### CSE Student · Developer · Problem Solver
+# Hi, I'm Hasini 👋
 
-*“Genius is built through curiosity, consistency, and code.”*
+### Computer Science Engineering Student | Aspiring Software Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/hasinimekala-22)
-[![Repositories](https://img.shields.io/badge/PROJECTS-991B1B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasinimekala-22?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=hasinimekala-22&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS)](https://github.com/hasinimekala-22)
+*Curiosity fuels innovation. Consistency builds expertise.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasinimekala-22)
+[![Repositories](https://img.shields.io/badge/Explore_Projects-B91C1C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasinimekala-22?tab=repositories)
 
 </div>
 
@@ -27,42 +19,37 @@
 
 ## 🧠 About Me
 
-```text
-NAME       : Hasini
-ROLE       : Computer Science Engineering Student
-MINDSET    : Learn → Build → Improve
-MISSION    : Turn ideas into useful software
-```
+I'm a Computer Science Engineering student who enjoys learning by building practical projects and solving programming problems.
 
-- 💻 Developing my programming fundamentals with **Python and Java**.
-- 🗄️ Learning database design and SQL using Oracle Database.
-- 🌐 Building projects with React, TypeScript, and Vite.
-- 📊 Exploring data analytics and full-stack development.
-- 🚀 Improving my problem-solving skills through hands-on practice.
+- 💻 Programming with **Python and Java**
+- 🗄️ Learning **SQL and Oracle Database**
+- 🌐 Exploring **React, TypeScript, and Vite**
+- 📊 Interested in **data analytics and full-stack development**
+- 🚀 Focused on strong fundamentals, practical projects, and continuous improvement
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚡ My Tech Arsenal
 
 <div align="center">
 
-**Languages**
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" alt="Python, Java, JavaScript, TypeScript" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" alt="Python, Java, JavaScript and TypeScript" />
 
-**Web Development**
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css" alt="React, Vite, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" alt="React, Vite, HTML and CSS" />
 
-**Databases & Tools**
+### Databases and Developer Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,vscode" alt="MySQL, Oracle, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,vscode" alt="MySQL, Oracle, Git, GitHub and VS Code" />
 
 </div>
 
 ---
 
-## 🚀 Mission Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -70,14 +57,14 @@ MISSION    : Turn ideas into useful software
 
 ### ❄️ Winter ARC
 
-A personal academic and productivity dashboard for organizing goals, habits, study sessions, and daily progress.
+A personal academic and productivity dashboard designed to organize study goals, habits, and daily progress.
 
-**Core features**
+**Highlights**
 - Study and habit tracking
-- Daily productivity dashboard
+- Productivity dashboard
 - Progress monitoring
 
-**Built with**
+**Tech Stack**
 
 `React` `TypeScript` `Vite`
 
@@ -88,14 +75,14 @@ A personal academic and productivity dashboard for organizing goals, habits, stu
 
 ### 💧 Water Leakage & Loss Analyzer
 
-An academic project in development to analyze water leakage complaints and repair records to identify areas associated with potential water loss.
+An academic project in development that analyzes water leakage complaints and repair records to identify areas associated with potential water loss.
 
-**Core focus**
+**Highlights**
 - Python-based data processing
-- Oracle SQL database operations
+- SQL database operations
 - Leakage and repair record analysis
 
-**Built with**
+**Tech Stack**
 
 `Python` `Oracle SQL`
 
@@ -113,7 +100,7 @@ An academic project in development to analyze water leakage complaints and repai
 
 <img src="https://github-readme-stats.vercel.app/api?username=hasinimekala-22&show_icons=true&theme=transparent&hide_border=true&title_color=F87171&icon_color=FBBF24&text_color=C9D1D9" height="170" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinimekala-22&layout=compact&theme=transparent&hide_border=true&title_color=F87171&text_color=C9D1D9" height="170" alt="Most-used languages in public repositories" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinimekala-22&layout=compact&theme=transparent&hide_border=true&title_color=F87171&text_color=C9D1D9" height="170" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=hasinimekala-22&theme=dark&hide_border=true&ring=F87171&fire=FBBF24&currStreakLabel=F87171" width="95%" alt="GitHub contribution streak" />
 
@@ -123,31 +110,36 @@ An academic project in development to analyze water leakage complaints and repai
 
 ## 🎯 Current Objectives
 
-- [ ] Strengthen Java and Python fundamentals.
-- [ ] Practice Data Structures and Algorithms.
-- [ ] Complete and document academic projects.
-- [ ] Build practical full-stack development skills.
-- [ ] Contribute to open-source projects.
+- [ ] Strengthen Python and Java fundamentals
+- [ ] Practice Data Structures and Algorithms
+- [ ] Complete and document academic projects
+- [ ] Improve full-stack development skills
+- [ ] Build a strong project portfolio
+- [ ] Explore open-source contributions
 
 ---
 
-## 🌌 Beyond the Terminal
+## 🌱 Beyond the Code
 
-- 📚 Learning through coursework and independent practice.
-- 🧩 Enjoying programming challenges and logical problem-solving.
-- 🔧 Improving project quality, documentation, and development workflows.
-- 🌱 Working toward becoming a stronger software developer.
+- 📚 Learning through coursework and independent practice
+- 🧩 Practicing logical thinking and problem-solving
+- 🔧 Improving project documentation and code quality
+- 🚀 Turning concepts into useful software
 
 ---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-### `INITIATE NEXT MISSION`
+<a href="https://github.com/hasinimekala-22">
+<img src="https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" />
+</a>
 
-*Every expert was once a beginner who refused to stop learning.*
+<br/>
+
+*Building today. Improving tomorrow. Creating what's next.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:09090B,50:7F1D1D,100:F59E0B" width="100%" alt="" />
-
-**Thanks for visiting my profile!** ⭐
 
 </div>
