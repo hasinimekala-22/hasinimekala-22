@@ -1,9 +1,13 @@
 
-<p align="center">
-  <img src="./HASINI-ironman.gif"
-       alt="HASINI — Iron Man animated banner"
-       width="850" />
-</p>
+html
+<div align="center">
+  <img
+    src="./HASINI-ironman.gif"
+    alt="HASINI — Iron Man animated banner"
+    width="100%"
+  />
+</div>
+
 <div align="center">
 
 ### Computer Science Engineering Student
