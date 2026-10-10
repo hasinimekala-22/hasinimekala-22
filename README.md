@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./HASINI-ironman.gif" alt="Hasini — Iron Man banner" width="40%" />
+  <img src="./HASINI-ironman.gif" alt="Hasini — Iron Man banner" width="75%" />
 </div>
 
 <div align="center">
