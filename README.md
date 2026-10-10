@@ -1,58 +1,113 @@
-# Hi, I'm Hasini 👋
+<!-- Replace YOUR_USERNAME with hasinimekala-22 if needed -->
 
-### Computer Science Engineering Student | Aspiring Software Developer
+<div align="center">
 
-I'm a B.Tech CSE student interested in building practical software solutions, exploring data analytics, and strengthening my problem-solving skills through hands-on development.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:312E81,100:2563EB&text=HASINI&fontColor=FFFFFF&fontSize=65&fontAlignY=42&desc=CODE%20%7C%20BUILD%20%7C%20LEARN%20%7C%20GROW&descAlignY=62&descSize=16" width="100%" alt="Hasini — Code, Build, Learn, Grow" />
 
-- 🔭 **Working on:** Python-based data analysis and personal productivity tools
-- 🌱 **Learning:** Data structures, software development, databases, and web technologies
-- 💡 **Interested in:** Open source, full-stack development, and data-driven applications
-- 🎯 **Goal:** Build useful projects and grow as a software engineer
+### Computer Science Engineering Student · Aspiring Software Developer
+
+Building practical solutions, one project at a time.
+
+[GitHub](https://github.com/hasinimekala-22) · [Repositories](https://github.com/hasinimekala-22?tab=repositories)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `01` — About Me
+
+I'm a Computer Science Engineering student who enjoys turning concepts into practical projects. I'm developing my skills in programming, databases, data analytics, and web development through hands-on learning.
+
+- 🔭 **Building:** Python data-analysis tools and productivity applications
+- 🌱 **Exploring:** Data structures, full-stack development, and open source
+- 🧩 **Interested in:** Software engineering and real-world problem solving
+- 🎯 **Focus:** Writing better code, documenting projects, and learning by building
+
+---
+
+## `02` — Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💧 Water Leakage & Loss Analyzer
-A course-end project designed to analyze water leakage complaints and repair records to identify areas associated with significant water loss.
 
-**Technologies:** Python · Oracle SQL
+Analyze water leakage complaints and repair records to identify areas associated with significant water loss.
+
+**Focus areas**
+- Python-based data processing
+- SQL database operations
+- Identifying potential water-loss hotspots
+
+**Stack:** Python · Oracle SQL
+
+[View repository →](https://github.com/hasinimekala-22?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
 
 ### ❄️ Winter ARC
-A personal productivity and academic tracking application focused on study planning, habit tracking, and progress monitoring.
 
-**Technologies:** React · TypeScript · Vite
+A personal academic and productivity command center designed to track study goals, habits, and progress.
 
----
+**Focus areas**
+- Interactive dashboard
+- Habit and study tracking
+- Personal productivity workflows
 
-## 🛠️ Tech Stack
+**Stack:** React · TypeScript · Vite
 
-**Languages**
+[Explore my repositories →](https://github.com/hasinimekala-22?tab=repositories)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Development Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 My Developer Journey
+## `03` — Technical Toolkit
 
-- Building projects to apply classroom concepts.
-- Practicing coding problems and improving logical thinking.
-- Exploring collaborative development and open-source contribution.
+| Area | Technologies |
+|---|---|
+| Programming | Python · Java |
+| Databases | SQL · Oracle Database |
+| Web development | React · TypeScript · Vite |
+| Tools | Git · GitHub · VS Code |
+| Currently strengthening | DSA · Database design · Full-stack development |
 
 ---
 
-## 🤝 Connect With Me
+## `04` — GitHub Activity
 
-- **GitHub:** [@hasinimekala-22](https://github.com/hasinimekala-22)
+<div align="center">
 
-*Always learning. Always building. One commit at a time.*
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hasinimekala-22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinimekala-22&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages across public repositories" />
+
+<img width="95%" src="https://streak-stats.demolab.com?user=hasinimekala-22&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## `05` — Beyond the Code
+
+- 📚 Learning through academic and personal projects
+- 🧠 Practicing problem solving and programming fundamentals
+- 🌍 Working toward meaningful open-source contributions
+
+---
+
+## `06` — Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasinimekala-22)
+
+*Curiosity drives learning. Consistency turns learning into progress.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6366F1,100:06B6D4" width="100%" alt="" />
+
+</div>
