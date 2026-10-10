@@ -1,8 +1,23 @@
- <div align="center">
+ 
+<p align="center">
+  <img
+    src="./ironman-header.svg"
+    alt="Hasini — Stark Industries developer profile"
+    width="100%"
+  />
+</p>
 
-<img src="https://media1.tenor.com/m/z74B5C809U0AAAAd/iron-man.gif" width="260" alt="Iron Man animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=F59E0B&center=true&vCenter=true&width=650&lines=Building+projects%2C+one+commit+at+a+time;Computer+Science+Engineering+Student;Initiating+the+next+mission..." alt="Typing introduction" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:09090B,45:450A0A,75:B91C1C,100:F59E0B&text=HASINI&fontColor=FFFFFF&fontSize=76&fontAlignY=55" width="100%" alt="HASINI" />
+<p align="center">
+  <a href="https://github.com/hasinimekala-22?tab=repositories">EXPLORE PROJECTS</a>
+  &nbsp; // &nbsp;
+  <a href="https://github.com/hasinimekala-22">GITHUB PROFILE</a>
+</p>
+
+
 
 ### STARK INDUSTRIES // DEVELOPER INITIATIVE
 
