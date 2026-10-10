@@ -1,9 +1,16 @@
- <div align="center">
+ ```html
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09090B,45:7F1D1D,75:DC2626,100:F59E0B&text=HASINI&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=ENGINEER%20IN%20PROGRESS%20%7C%20BUILDER%20BY%20PASSION&descAlignY=58&descSize=14" width="100%" alt="Hasini — Engineer in Progress" />
+<a href="https://github.com/hasinimekala-22">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090B,45:7F1D1D,100:F59E0B&text=HASINI&fontColor=FFFFFF&fontSize=75&fontAlignY=48&desc=CODE%20%7C%20BUILD%20%7C%20LEARN%20%7C%20GROW&descAlignY=68&descSize=16"
+    width="100%"
+    alt="Hasini — Code, Build, Learn, Grow"
+  />
+</a>
 
-<img src="https://media1.tenor.com/m/z74B5C809U0AAAAd/iron-man.gif" width="190" alt="Iron Man animated GIF" />
-
+</div>
+```
 # `> Hello, World! I'm Hasini`
 
 ### CSE Student · Developer · Problem Solver
