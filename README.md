@@ -1,4 +1,6 @@
- 
+<p align="center">
+  <img src="./HASINI-ironman.gif" alt="HASINI Iron Man animated banner" width="100%">
+</p> 
 <p align="center">
   <img
     src="./ironman-header.svg"
