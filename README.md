@@ -4,7 +4,7 @@ html
   <img
     src="./HASINI-ironman.gif"
     alt="HASINI — Iron Man animated banner"
-    width="100%"
+    width="850%"
   />
 </div>
 
