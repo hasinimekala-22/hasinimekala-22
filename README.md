@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./HASINI-ironman.gif"
        alt="HASINI — Iron Man animated banner"
-       width="300" />
+       width="600" />
 </p>
 <div align="center">
 
